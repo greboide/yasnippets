@@ -1,0 +1,5 @@
+#name : before :symbol do ... end
+# --
+before ${:symbol} do
+  ${body}
+end

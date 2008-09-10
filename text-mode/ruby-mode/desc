@@ -1,0 +1,5 @@
+#name : describe Class do ... end
+# --
+describe ${Class} do
+  ${body}
+end

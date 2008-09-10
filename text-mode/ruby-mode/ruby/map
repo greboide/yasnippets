@@ -1,0 +1,4 @@
+# -*- mode: yasnippet -*-
+#name : map { |e| .. }
+# --
+map { |${1:e}| $0 }

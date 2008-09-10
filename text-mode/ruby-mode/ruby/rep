@@ -1,0 +1,4 @@
+# -*- mode: yasnippet -*-
+#name : results.report(..) { .. }
+# --
+results.report("${1:name}:") { TESTS.times { $0 } }

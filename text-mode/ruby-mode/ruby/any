@@ -1,0 +1,4 @@
+# -*- mode: yasnippet -*-
+#name : any? { |e| .. }
+# --
+any? { |${1:e}| $0 }
